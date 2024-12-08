@@ -1,5 +1,3 @@
-# GenreMusic
-
 ### README - Projet de Classification Musicale
 
 #### Description  
